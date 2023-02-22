@@ -2,6 +2,7 @@
 
 Reinforcement learning implementation of 2-player perfect information game Hex using markov decision processes to predict future game states
 
+![](https://github.com/lucylow/H3X460N/blob/main/hexagon.png?raw=true)
 -------
 
 * Ensure your program contains instructions on how to build & compile your program, and that such instructions are properly notated (e.g. in a README)
